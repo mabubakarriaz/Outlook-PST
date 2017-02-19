@@ -1,0 +1,7 @@
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
