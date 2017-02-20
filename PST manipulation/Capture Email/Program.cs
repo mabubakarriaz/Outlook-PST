@@ -41,6 +41,7 @@ namespace Net.Mobilink
               //Logon to outlook Application using default profile
               outlookApplication = new Application();
               outlookNameSpace = outlookApplication.GetNamespace("MAPI");
+              outlookNameSpace.AddStore("");
               outlookNameSpace.Logon(null,null,false, false); //first value null as Default outlook profile
               
               

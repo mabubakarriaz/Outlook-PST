@@ -6,3 +6,4 @@ C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\PST Sorting
 C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\PST Sorting App\obj\Debug\PST Sorting App.csproj.GenerateResource.Cache
 C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\PST Sorting App\obj\Debug\PST Sorting App.exe
 C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\PST Sorting App\obj\Debug\PST Sorting App.pdb
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\PST Sorting App\obj\Debug\PST_Sorting_App.Form1.resources
