@@ -1,0 +1,1 @@
+D:\workspace\Capture Outlook Emails\ConsoleApplication6\obj\x86\Debug\Capture Email.csproj.ResolveComReference.cache
