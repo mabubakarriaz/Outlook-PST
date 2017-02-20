@@ -1,0 +1,10 @@
+D:\workspace\Capture Outlook Emails\ConsoleApplication6\obj\x86\Debug\Capture Email.csproj.ResolveComReference.cache
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\Capture Outlook Emails\ConsoleApplication6\obj\x86\Debug\Capture Email.csproj.ResolveComReference.cache
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\Capture Email\bin\Debug\Capture Invalid Email Address App.exe
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\Capture Email\bin\Debug\Capture Invalid Email Address App.pdb
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\Capture Email\obj\x86\Debug\Capture Email.csprojResolveAssemblyReference.cache
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\Capture Email\obj\x86\Debug\Capture Email.csproj.ResolveComReference.cache
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\Capture Email\obj\x86\Debug\Net.Mobilink.Properties.Resources.resources
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\Capture Email\obj\x86\Debug\Capture Email.csproj.GenerateResource.Cache
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\Capture Email\obj\x86\Debug\Capture Invalid Email Address App.exe
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\Capture Email\obj\x86\Debug\Capture Invalid Email Address App.pdb

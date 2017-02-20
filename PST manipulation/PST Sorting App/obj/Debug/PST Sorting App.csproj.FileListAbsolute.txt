@@ -1,0 +1,8 @@
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\PST Sorting App\bin\Debug\PST Sorting App.exe.config
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\PST Sorting App\bin\Debug\PST Sorting App.exe
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\PST Sorting App\bin\Debug\PST Sorting App.pdb
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\PST Sorting App\obj\Debug\PST Sorting App.csprojResolveAssemblyReference.cache
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\PST Sorting App\obj\Debug\PST_Sorting_App.Properties.Resources.resources
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\PST Sorting App\obj\Debug\PST Sorting App.csproj.GenerateResource.Cache
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\PST Sorting App\obj\Debug\PST Sorting App.exe
+C:\Users\abubakar.riaz\Documents\GitHub\Outlook-PST\PST manipulation\PST Sorting App\obj\Debug\PST Sorting App.pdb
